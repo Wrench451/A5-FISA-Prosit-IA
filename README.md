@@ -9,7 +9,7 @@ Ce repository rassemble tous les prosits du bloc "Intelligence Artificielle" de 
 
 ## Prosit 1 - On sépare les appartements
 
-✅ Réalisé (Prosit + Workshop)
+✅ Réalisé (Workshop)
 
 Rendu le 11/02/2026
 
